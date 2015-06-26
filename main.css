@@ -7,7 +7,7 @@
   text-transform: uppercase;
 }
 
-.nav list-style-type:none {
+.nav container {
   display: inline;
   position: absolute, right: 0, top: 0;
 }
