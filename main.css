@@ -7,6 +7,8 @@
   text-transform: uppercase;
 }
 
-.nav ul {
+.nav li {
   display: inline;
+  position: relative;
+  float: right;
 }
