@@ -9,6 +9,6 @@
 
 .nav li {
   display: inline;
-  position: absolute, right: 0, top: 0;
+  position: relative, top: 20px;
   
 }
