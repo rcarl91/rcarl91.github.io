@@ -1,6 +1,7 @@
 .wrapper {
    width: 960px;
-   margin: 0 auto;
+   margin-left: 480px;
+   margin-right: 480px;
 }
 
 .header {
@@ -10,10 +11,14 @@
    border-bottom: 5px solid #ddd;
 }
 
+.header img li {
+	display: inline;
+}
+
 .logo {
    position: absolute; 
    left: 0;
-   bottom: 15px;
+   bottom: 30px;
 }
 
 .nav a {
