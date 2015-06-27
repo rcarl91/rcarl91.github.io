@@ -18,6 +18,12 @@
    left: 0;
    bottom: 15px;
 }
+.nav {
+	clear: both;
+	position: absolute;
+	right: 0;
+	bottom: 15px;
+}
 
 }
 .nav a {
