@@ -12,16 +12,15 @@
    border-bottom: 5px solid #ddd;
 }
 
-.header img li {
-	display: inline;
-}
 
 .logo {
    position: absolute; 
    left: 0;
-   bottom: 30px;
+   bottom: 15px;
 }
-
+.nav {
+	bottom: 15px;
+}
 .nav a {
   color: #5a5a5a;
   font-family: 'Shift', sans-serif;
