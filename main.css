@@ -1,6 +1,8 @@
 .wrapper {
-   margin-right: 480px;
-   margin-left: 240px
+	padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
 }
 
 .header {
