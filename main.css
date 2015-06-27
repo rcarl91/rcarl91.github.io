@@ -1,3 +1,21 @@
+.wrapper {
+   width: 960px;
+   margin: 0 auto;
+}
+
+.header {
+   margin: 0;
+   position: relative;
+   height: 120px;
+   border-bottom: 5px solid #ddd;
+}
+
+.logo {
+   position: absolute; 
+   left: 0;
+   bottom: 15px;
+}
+
 .nav a {
   color: #5a5a5a;
   font-family: 'Shift', sans-serif;
