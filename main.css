@@ -39,3 +39,7 @@
 .nav li {
   display: inline;
 }
+
+.jumbotron {
+	background-image: url('https://scontent-ams3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/548913_443541482352792_29862905_n.jpg?oh=62d5c524dde85517bb5f71576ef23975&oe=5631EF7E');
+}
