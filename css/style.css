@@ -169,6 +169,7 @@
 			margin-bottom: 0;
 		}
 
+
 	/* Images */
 
 		.image
@@ -303,6 +304,11 @@
 	{
 		overflow: hidden;
 		border-top: 1px solid #dbdbdb;
+	}
+	#front
+	{
+		width: 20%;
+		
 	}
 
 /*********************************************************************************/
