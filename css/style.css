@@ -12,7 +12,7 @@
 
 	body
 	{
-		background: #fff439;
+		background: #090909;
 	}
 
 	body,input,textarea,select
@@ -169,7 +169,6 @@
 			margin-bottom: 0;
 		}
 
-
 	/* Images */
 
 		.image
@@ -194,7 +193,7 @@
 			.image.full
 			{
 				display: block;
-				width: 70%;
+				width: 100%;
 				margin: 0 0 2em 0;
 			}
 			
@@ -304,11 +303,6 @@
 	{
 		overflow: hidden;
 		border-top: 1px solid #dbdbdb;
-	}
-	#front
-	{
-		width: 240px;
-
 	}
 
 /*********************************************************************************/
