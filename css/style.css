@@ -192,7 +192,7 @@
 			
 			.image.full
 			{
-				display: block;
+				display: inline;
 				width: 100%;
 				margin: 0 0 2em 0;
 			}
