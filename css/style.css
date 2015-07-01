@@ -171,6 +171,10 @@
 
 	/* Images */
 
+	.image-cell {
+		display: inline;
+	}
+
 		.image
 		{
 			display: inline-block;
