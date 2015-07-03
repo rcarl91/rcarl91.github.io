@@ -265,7 +265,7 @@
 	#header
 	{
 		position: relative;
-		background: #ddd url(../images/header.pdf) no-repeat center;
+		background: #ddd url("images/header.pdf") no-repeat center;
 		background-size: cover;
 	}
 
