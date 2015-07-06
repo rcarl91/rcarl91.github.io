@@ -218,7 +218,12 @@
 					margin: 0 auto;
 					width: auto;
 				}
-
+			.image-front
+			{
+			float: left;
+			margin-left: 50px;
+			margin-bottom: 50px;
+			}
 	/* Lists */
 
 		ul.default
@@ -265,14 +270,21 @@
 	#header
 	{
 		position: relative;
-		background: #ddd url(../images/header.pdf) no-repeat center;
+		background: #ddd url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
 	#logo
 	{
+		text-decoration: #313313;
+
 	}
-	
+
+	#span
+	{
+		color: yellow;
+	}
+
 	#nav
 	{
 	}
@@ -307,6 +319,11 @@
 	{
 		overflow: hidden;
 		border-top: 1px solid #dbdbdb;
+	}
+	#presentation
+	{
+		height: 300px;
+		float: left;
 	}
 
 /*********************************************************************************/
