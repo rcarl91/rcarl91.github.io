@@ -304,20 +304,6 @@
 			#nav ul li{
 				color: #ba0200;
 			}
-<<<<<<< HEAD
-
-	#outline{
-  		outline-width: 1px;
-  		outline-style: dashed;
-  		outline-color: black;
-=======
-	#outline
-	{
-		color: #fff313;
-   		-webkit-text-stroke: 1px black;
-   		
->>>>>>> origin/master
-	}
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
