@@ -121,7 +121,7 @@
 			display: inline-block;
 			margin-top: 2em;
 			padding: 0.8em 1.5em;
-			background: #fff313;
+			background: #ffff00;
 			border-radius: 6px;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -137,7 +137,7 @@
 
 			.button:hover
 			{
-				background: #fff313;
+				background: #ffff00;
 				color: #ba0200 !important;
 			}
 	
