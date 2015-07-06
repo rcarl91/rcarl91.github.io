@@ -122,12 +122,12 @@
 			display: inline-block;
 			margin-top: 2em;
 			padding: 0.8em 1.5em;
-			background: #1d1d1d;
+			background: #fff439;
 			border-radius: 6px;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-size: 1em;
-			color: #FFF;
+			color: #ba0200;
 			-moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			-webkit-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 			-o-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
@@ -138,8 +138,8 @@
 
 			.button:hover
 			{
-				background: #ba0200;
-				color: #FFF !important;
+				background: #fff439;
+				color: #ba0200 !important;
 			}
 	
 
