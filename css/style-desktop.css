@@ -126,18 +126,18 @@
 				font-weight: 200;
 				font-size: 1em;
 				outline: 0;
-				color: #7b7b7b;
+				color: #fff313;
 			}
 
 
 			#nav > ul > li > a:hover
 			{
-				color: #FFF;
+				color: #ba0200;
 			}
 
 			#nav li.active a
 			{
-				color: #FFF;
+				color: #ba0200;
 			}
 
 			#nav > ul > li > ul
