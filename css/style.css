@@ -78,7 +78,7 @@
 	
 	blockquote
 	{
-		border-left: solid 0.5em #ddd;
+		border-left: solid 0.5em #ba0200;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
 	}
@@ -89,7 +89,6 @@
 	}
 
 	header{
-		color: #000000
 	}
 	
 		header h2
