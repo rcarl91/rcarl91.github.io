@@ -281,7 +281,7 @@
 
 	#header
 	{
-		position: absolute;
+		position: relative;
 		background: #ddd url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
