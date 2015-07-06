@@ -291,11 +291,6 @@
 
 	}
 
-	#span
-	{
-		color: yellow;
-	}
-
 	#nav
 	{
 		
@@ -306,7 +301,7 @@
 			margin: 0;
 		}
 
-			#nav li{
+			#nav ul li{
 				color: #ba0200;
 			}
 	
