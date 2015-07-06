@@ -281,7 +281,7 @@
 	#header
 	{
 		position: contain;
-		background: #ddd url(../images/header.jpg) no-repeat center;
+		background: #ba0200 url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
@@ -298,6 +298,7 @@
 
 	#nav
 	{
+		color: #ba0200;
 	}
 
 		#nav ul
