@@ -281,7 +281,7 @@
 	#header
 	{
 		position: contain;
-		background: #ba0200 url(../images/header.jpg) no-repeat center;
+		background: #ddd url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
@@ -298,13 +298,17 @@
 
 	#nav
 	{
-		color: #ba0200;
+		
 	}
 
 		#nav ul
 		{
 			margin: 0;
 		}
+
+			#nav li{
+				color: #ba0200;
+			}
 	
 /*********************************************************************************/
 /* Banner                                                                        */
