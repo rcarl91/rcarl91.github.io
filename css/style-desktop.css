@@ -177,12 +177,7 @@
 	{
 		font-size: 2em;
 	}
-	#sidebarleft
-	{
-		width: 500px;
-		float: left;
-	}
-	#sidebarright
+	#sidebar2
 	{
 		width: auto;
 		float: left;
