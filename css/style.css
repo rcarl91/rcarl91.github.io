@@ -350,7 +350,8 @@
 	}
 	#sectionleft
 	{
-		width: 500px;
+		width: auto;
+		float: left;
 	}
 	
 	
