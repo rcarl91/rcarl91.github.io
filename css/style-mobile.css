@@ -101,7 +101,7 @@
 		#titleBar .title
 		{
 			display: none;
-			color: #fff;
+			color: #ba0200;
 			text-align: center;
 			line-height: 44px;
 		}
@@ -161,7 +161,7 @@
 			
 			#navPanel .link.depth-0
 			{
-				color: #fff;
+				color: #ba0200;
 			}
 
 			#navPanel .indent-1 { display: inline-block; width: 1em; }
@@ -169,7 +169,7 @@
 			#navPanel .indent-3 { display: inline-block; width: 3em; }
 			#navPanel .indent-4 { display: inline-block; width: 4em; }
 			#navPanel .indent-5 { display: inline-block; width: 5em; }
-			#navPanel .depth-0 { color: #fff; }
+			#navPanel .depth-0 { color: #ba0200; }
 			
 /*********************************************************************************/
 /* Header                                                                        */
