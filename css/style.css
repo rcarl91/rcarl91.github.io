@@ -332,12 +332,11 @@
 		height: 300px;
 		float: left;
 	}
-	#sidebar2{
-		margin-left: auto;
-		margin-right: auto;
-	}
+
 	#section
 	{
+		margin-right: auto;
+		margin-left: auto;
 		width: auto;
 		float: left;
 	}
