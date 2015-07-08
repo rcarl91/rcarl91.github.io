@@ -252,8 +252,10 @@
 	{
 	}
 
-	#content-film table{
-		width: 30%;
+	#content-film{
+		margin-right: auto;
+		margin-left: auto;
+		width:30%;
 	}
 	
 
