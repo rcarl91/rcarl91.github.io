@@ -53,10 +53,15 @@ a{
 }
 
 #jumbotron{
-	position: relative;
-	background: #ddd url(http://www.ctm-basel.ch/wp-content/uploads/2014/11/molecular-biology.jpg) no-repeat center;
-	background-size: cover;
-	height: 5em;
-	width: 15em;
+    zoom: 2;
+
+    display: block;
+    margin: auto;
+
+    height: auto;
+    max-height: 100%;
+
+    width: auto;
+    max-width: 100%;
 }
 
