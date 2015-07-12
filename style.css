@@ -8,6 +8,12 @@ body{
 
 #nav{
 	float: right;
-	text-decoration: none;
+}
+
+#nav ul{
+	display: inline-block;
+}
+
+#nav > ul > li{
 	display: inline-block;
 }
