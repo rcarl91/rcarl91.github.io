@@ -54,7 +54,9 @@ a{
 
 #jumbotron{
 	position: relative;
-	background: #ddd url(bilder/crelab_logo.png) no-repeat center;
+	background: #ddd url(http://www.ctm-basel.ch/wp-content/uploads/2014/11/molecular-biology.jpg) no-repeat center;
 	background-size: cover;
+	height: 5em;
+	width: 15em;
 }
 
