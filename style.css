@@ -16,13 +16,20 @@ a{
 	margin-top: 3em;
 }
 
+#header
+{
+   margin: 0;
+   position: relative;
+   height: 120px;
+   border-bottom: 5px solid #ddd;
+
 #logo{
 	float: left;
 }
 
 #nav{
 	float: right;
-	padding-top: 1.3em;
+	padding-top: 1.5em;
 }
 
 #nav ul{
@@ -33,7 +40,7 @@ a{
 #nav > ul > li{
 	display: inline-block;
 	font-family: Arial;
-	font-size: 1.2em;
+	font-size: 1em;
 	padding-right: 0.6em;
 	
 }
