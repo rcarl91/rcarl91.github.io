@@ -16,12 +16,9 @@ a{
 	margin-top: 3em;
 }
 
-#header
-{
-   margin: 0;
-   position: relative;
-   height: 120px;
-   border-bottom: 5px solid #ddd;
+#header{
+	
+}
 
 #logo{
 	float: left;
