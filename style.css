@@ -27,6 +27,7 @@ a{
 
 #nav ul{
 	display: inline-block;
+	clear: both;
 }
 
 #nav > ul > li{
