@@ -1,5 +1,9 @@
 *{
 	border: 1px dashed black;
+	margin: 0;
+   	padding: 0;
+   	border: 0;
+   	outline: 0;
 }
 
 body{
@@ -17,7 +21,7 @@ a{
 }
 
 #header{
-	
+	border-bottom: 5px solid #ddd;
 }
 
 #logo{
