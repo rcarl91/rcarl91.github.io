@@ -15,10 +15,6 @@ a{
 	color: black;
 }
 
-img{
-	max-width: inherit;
-}
-
 #wrapper{
 	margin-left: 10em;
 	margin-right: 10em;
@@ -54,5 +50,10 @@ img{
 	font-size: 0.8em;
 	padding-right: 0.5em;
 	text-transform: uppercase;
+}
+
+#jumbotron{
+background: url("http://www.ctm-basel.ch/wp-content/uploads/2014/11/molecular-biology.jpg");
+background-size: cover;
 }
 
