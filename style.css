@@ -28,18 +28,19 @@ a{
 }
 
 #logo{
-	float: left;
+	position: absolute;
+	left: 0;
 }
 
 #nav{
-	float: right;
+	position: absolute;
+	right: 0;
 	padding-top: 3.4em;
 
 }
 
 #nav ul{
 	display: inline-block;
-	clear: both;
 }
 
 #nav > ul > li{
