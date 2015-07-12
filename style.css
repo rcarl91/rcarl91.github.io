@@ -30,12 +30,13 @@ a{
 #logo{
 	position: absolute;
 	left: 0;
+	bottom: 1em;
 }
 
 #nav{
 	position: absolute;
 	right: 0;
-	padding-top: 3.4em;
+	bottom: 1em;
 
 }
 
