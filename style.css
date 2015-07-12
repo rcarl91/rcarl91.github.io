@@ -1,10 +1,10 @@
 body{
-	
+	font-family: Arial;
 }
 
 #wrapper{
-	margin-left: 1em;
-	margin-right: 1em;
+	margin-left: 2em;
+	margin-right: 2em;
 }
 
 #logo{
@@ -13,6 +13,7 @@ body{
 
 #nav{
 	float: right;
+	padding-left: 3em;
 }
 
 #nav ul{
@@ -21,5 +22,7 @@ body{
 
 #nav > ul > li{
 	display: inline-block;
+	font-family: Arial;
+	font-size: 3em;
 }
 
