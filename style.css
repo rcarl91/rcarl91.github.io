@@ -3,8 +3,8 @@ body{
 }
 
 #wrapper{
-	margin-left: 4em;
-	margin-right: 4em;
+	margin-left: 8em;
+	margin-right: 8em;
 }
 
 #logo{
@@ -23,6 +23,6 @@ body{
 #nav > ul > li{
 	display: inline-block;
 	font-family: Arial;
-	font-size: 14px;
+	font-size: 30px;
 }
 
