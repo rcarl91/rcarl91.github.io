@@ -89,7 +89,7 @@ span.menu {
 }
 .top-nav ul li a:hover,.top-nav ul li a.active {
   color: #fff;
-  background: rgb(58, 222, 203);
+  background: #00704b;
   padding: 3.5em 0.5em;
 }
 .top-nav ul li a:hover,
@@ -996,7 +996,7 @@ a.callbacks_nav.callbacks3_nav.next {
 	padding-top: 5em;
 }
 a.ft-icons:hover {
-	border: 2px solid rgb(58, 222, 203);
+	border: 2px solid #00704b;
 	padding: 2.7em 2em;
 	border-radius: 2px;
 	transform: rotate(360deg);
@@ -2094,7 +2094,7 @@ a.callbacks_nav.callbacks3_nav.next {
 }
 .top-nav ul li a:hover, .top-nav ul li a.active {
 	color: #fff;
-	background:rgb(58, 222, 203);
+	background:#00704b;
 	padding: 1em 0;
 	margin-bottom: 1em;
 }
