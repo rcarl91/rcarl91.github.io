@@ -2,6 +2,10 @@ body{
 	font-family: Arial;
 }
 
+a{
+	text-decoration: none;
+}
+
 #wrapper{
 	margin-left: 8em;
 	margin-right: 8em;
@@ -26,6 +30,6 @@ body{
 	display: inline-block;
 	font-family: Arial;
 	font-size: 1.5em;
-	text-decoration: none;
+	
 }
 
