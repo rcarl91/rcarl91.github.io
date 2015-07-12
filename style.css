@@ -8,4 +8,6 @@ body{
 
 #nav{
 	float: right;
+	text-decoration: none;
+	display: inline-block;
 }
