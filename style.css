@@ -2,6 +2,11 @@ body{
 	
 }
 
+#wrapper{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
 #logo{
 	float: left;
 }
@@ -17,3 +22,4 @@ body{
 #nav > ul > li{
 	display: inline-block;
 }
+
