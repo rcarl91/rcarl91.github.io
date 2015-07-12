@@ -23,7 +23,7 @@ a{
 #header{
 	border-bottom: 5px solid #ddd;
 	position: relative;
-	height: 8em;
+	height: 6em;
 }
 
 #logo{
@@ -32,7 +32,7 @@ a{
 
 #nav{
 	float: right;
-	
+
 }
 
 #nav ul{
