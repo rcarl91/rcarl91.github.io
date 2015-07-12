@@ -5,6 +5,7 @@ body{
 #wrapper{
 	margin-left: 8em;
 	margin-right: 8em;
+	margin-top: 2em;
 }
 
 #logo{
@@ -14,6 +15,7 @@ body{
 #nav{
 	float: right;
 	padding-left: 3em;
+	padding-top: 1.3em;
 }
 
 #nav ul{
@@ -24,5 +26,6 @@ body{
 	display: inline-block;
 	font-family: Arial;
 	font-size: 1.5em;
+	text-decoration: none;
 }
 
