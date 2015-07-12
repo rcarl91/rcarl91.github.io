@@ -53,16 +53,10 @@ a{
 }
 
 #jumbotron{
-    zoom: 4;
+	position: relative;
+	
 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
-    height: auto;
-    max-height: 100%;
-
-    width: auto;
-    max-width: 100%;
+	height: 8em;
+	width: 15em;
 }
 
