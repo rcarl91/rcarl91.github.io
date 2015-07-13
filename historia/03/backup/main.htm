@@ -1,0 +1,72 @@
+<html>
+<head>
+   <title>Meny - EKAK</title>
+
+<script language="JavaScript">
+var a='Nytt på sidan: Resultaten från Oktoberhäfvet 021010      '
+var b='På gång: Aspning: Aspa EKAK! Skriv upp er på listan och lämna aspenkät. Nu.     '
+var c='Snabbast øhl: Pripps '
+var d='                    '
+var e=d+a+b+c
+
+function rulla(sofia){
+f=parseInt(sofia)
+if(f==e.length){f=0}
+f++
+med=e.substring(f,f+60)
+var igen='rulla('+f+')'
+timerTwo=window.setTimeout(igen,150);
+
+//Skriver ut texten i textrutan
+document.alfa.text.value=med
+
+//Skriver texten i status raden
+self.status=med;return true
+
+}
+//Notera att i <body> måste du infatta onLoad="rulla(0)"
+</script>
+
+
+</head>
+<body bgcolor="#FFFF40" onLoad="rulla(0)">
+<center>
+<form name="alfa">
+<center>
+<!-- Här har vi text rutan. Den heter helt enkelt "text" -->
+<input type="text" value="" name="text" size="40" color="ffff40">
+</center>
+</form>
+
+<br>
+ 
+<br><img src="ekaklogomindre.jpg"></center><br><br><br>
+
+<table BORDER=0 COLS=3 WIDTH="100%" NOSAVE >
+<tr NOSAVE>
+<td NOSAVE><img src="ankan_liten1.jpg"><br><b><font size=+1><a href="kalle_anka.htm" target="main">Kalle Anka</a></font></b>
+<br><font size=+1>Ordförande</font>
+</td>
+
+<td NOSAVE><img src="kaptenen_liten1.jpg"><br><b><font size=+1><a href="kaptenen.htm" target="main">Kaptenen</a></font></b>
+<br><font size=+1>Kass&ouml;r</font>
+</td>
+
+<td><img src="kufe_liten1.jpg"><br><b><font size=+1><a href="kufe_knyck.htm" target="main">Kufe Knyck</a></font></b>
+<br><font size=+1>Korrespondenschef</font>
+</td>
+</tr>
+
+<tr>
+<td><br><img src="leonidas_liten1.jpg"><br><b><font size=+1><a href="kung_leonidas.htm" target="main">Kung Leonidas</a></font></b>
+<br><font size=+1>&Ouml;hlchef</font>
+</td>
+
+<td><br><img src="buzzie_liten1.jpg"><br><b><font size=+1><a href="buzzie.htm" target="main">Buzzie</a></font></b>
+<br><font size=+1>Filmchef</font>
+</td>
+</tr>
+</table>
+
+</body>
+</html>

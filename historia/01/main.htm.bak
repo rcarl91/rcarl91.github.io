@@ -1,0 +1,72 @@
+<html>
+<head>
+   <title>Meny - EKAK</title>
+
+<script language="JavaScript">
+var a='Nytt på sidan: Resultat från Oktoberhäfvet      '
+var b='På gång: Chalmersmsäterskapen 6/12 18:00 i Gasquen     '
+var c='Snabbast øhl: Pripps '
+var d='                    '
+var e=d+a+b+c
+
+function rulla(sofia){
+f=parseInt(sofia)
+if(f==e.length){f=0}
+f++
+med=e.substring(f,f+60)
+var igen='rulla('+f+')'
+timerTwo=window.setTimeout(igen,150);
+
+//Skriver ut texten i textrutan
+document.alfa.text.value=med
+
+//Skriver texten i status raden
+self.status=med;return true
+
+}
+//Notera att i <body> måste du infatta onLoad="rulla(0)"
+</script>
+
+
+</head>
+<body bgcolor="#FFFF40" onLoad="rulla(0)">
+<center>
+<form name="alfa">
+<center>
+<!-- Här har vi text rutan. Den heter helt enkelt "text" -->
+<input type="text" value="" name="text" size="40" color="ffff40">
+</center>
+</form>
+
+<br>
+ 
+<br><img src="ekaklogomindre.jpg"></center><br><br><br>
+
+<table BORDER=0 COLS=3 WIDTH="100%" NOSAVE >
+<tr NOSAVE>
+<td NOSAVE><img src="ankanmindre.jpg"><br><b><font size=+1><a href="kalle.htm">Kalle Anka</a></font></b>
+<br><font size=+1>Tattare</font>
+</td>
+
+<td NOSAVE><img src="overtsenmindre.jpg"><br><b><font size=+1><a href="oversten.htm">&Ouml;versten</a></font></b>
+<br><font size=+1>Kass&ouml;rska</font>
+<br>Mattias Falkehag</td>
+
+<td><img src="omalleymidre.jpg"><br><b><font size=+1><a href="omalley.htm">Thomas O'Malley</a></font></b>
+<br><font size=+1>Korrespondenschef</font>
+<br>Fredrik &Ouml;hgren</td>
+</tr>
+
+<tr>
+<td><br><img src="brutusmindre.jpg"><br><b><font size=+1><a href="brutus.htm">Brutus</a></font></b>
+<br><font size=+1>Matchef</font>
+<br>Marcus Hellqvist</td>
+
+<td><br><img src="tuckmindre.jpg"><br><b><font size=+1><a href="tuck.htm">Broder Tuck</a></font></b>
+<br><font size=+1>Fiskchef</font>
+<br>Johan Lundahl</td>
+</tr>
+</table>
+
+</body>
+</html>

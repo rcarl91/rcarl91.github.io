@@ -1,0 +1,4 @@
+<?php include "top.php"; ?>
+  <p>Tja!</p>
+  <p>Det är alltså jag som är Johanna och är korrespondenschef, vilket många skulle säga är den viktigaste posten i EKAK. Då jag inte smyger omkring och jagar småpojkar eller stjäl ägg så står jag för den fantastiskt snygga reklamen för EKAK och det är även i första hand via mig man går om man vill kontakta EKAK.</p><p>För alla er icke införstådda så är jag den otroligt sluga, något onda, lilla leguanen Johanna från filmen Bernard och Bianca i Australien (1990). Jag springer mest runt och förstör för alla andra, finns ingen bättre glädje än sann skadeglädje!</p>
+<?php include "bottom.php"; ?>

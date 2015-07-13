@@ -1,0 +1,19 @@
+0.33L Flaska
+---------------------------------------------------------------
+1       Kalle Anka 05   EWU     3.837   Uttagningshäfv till CSM
+2       Lincoln         H       3.838   Sektionsmästerskapen
+3       Humphrey        EKAK    3.893   Uttagningshäfv till CSM
+4       Jonas           H       3.920   Sektionsmästerskapen
+5       Thomas O'Malley EWU     3.9     Chalmers Open
+
+0.5L Sejdel
+---------------------------------------------------------------
+1       Kufe Knyck      EWU     3.379   Chalmersmästerskapen
+2       Kaptenen        EWU     3.479   Chalmers Open
+4       Elliot          EWU     3.493   Uttagningshäfv till CSM
+
+1.0L Sejdel
+---------------------------------------------------------------
+1       Kufe Knyck      EWU     7.157   Chalmersmästerskapen
+2       Elliot          EWU     7.215   Chalmers Open
+3       Toby            EKAK    7.438   Oktoberhäfvet

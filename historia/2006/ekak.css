@@ -1,0 +1,117 @@
+body	{
+ 	background: #fff439;
+	font: 10pt/14pt sans-serif;
+	}
+
+.temp	{ background: #fefe29; }
+
+
+h1	{ font: bold 24pt cursive;
+	text-align: center
+	}
+
+h2	{
+	font: bold 14pt cursive;
+	}
+
+h3	{
+	font: 12pt cursive;
+	text-align: left;
+	}
+
+p	{
+	text-align: justify;
+	font: 10pt/14pt sans-serif;
+	}
+
+p.par	{
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+p.sty	{
+	font-weight: bold;
+	}
+
+table	{
+	border: 0px;
+	}
+
+.mainframe {
+	border: 2px solid black;
+        background: #f8ed37 url(bilder/backdrop.gif) no-repeat scroll center center;
+	height: 500px;
+	width: 640px;
+	}
+
+th	{ font: bold 12pt cursive;
+	text-align: left;
+	color: black; }
+
+td	{
+	vertical-align: top;
+	text-align: left;
+	font: 10pt/14pt sans-serif;
+	}
+
+td.info	{
+	text-align: center;
+	padding: 5pt;
+	}
+
+.top	{
+	text-align: center;
+	}
+
+
+.menu	{
+	vertical-align: middle;
+	text-align: right;
+	font: bold 10pt/14pt sans-serif;
+	}
+
+.main	{
+	padding: 8pt 8pt 8pt 8pt;
+	text-align: justify;
+	height: 100%;
+	}
+
+.noborder {
+	border: 0px ! important;
+	}
+
+.imagecell {
+	border: 0px;
+	vertical-align: middle;
+	text-align: center;
+	}
+
+div	{
+	text-align: left;
+	border: 1px solid black;
+	padding: 5px;
+	width: 256px;
+	}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: black
+	}
+
+a:hover	{
+	text-decoration: underline;
+	color: black
+	}
+
+.linje	{ background-color: #cceeaa;
+	padding: 4px;
+	font: bold 12pt sans-serif;
+	color: blue;
+	text-align: center }
+
+img	{ border: 0px solid}
+
+.foto	{ border: 0px solid;
+	vertical-align:top;
+          float: right;
+	margin: 10px }

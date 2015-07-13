@@ -1,0 +1,8 @@
+a.meny		{ text-decoration:none; color:#B90000; }
+a.meny:hover	{ text-decoration:none; color:#B96666; }
+a		{ text-decoration:none; color:#666666; }
+a:hover		{ text-decoration:none; color:#B90000; }
+body		{ background-image:url(bilder/anka.gif); background-repeat:no-repeat; background-color:#FEFE29; font-family:verdana,arial,helvetica; margin:10px; }
+.meny		{ background-repeat:no-repeat; background-position:center; font-size:18px; color:#333333; text-align:center; letter-spacing:-2px; }
+#text		{ background-color:#FDFF75; font-size:12px; color:#333333; border:1px solid #000000; padding:10px; text-align:justify; }
+#rubrik		{ font-size:30px; text-align:center; color:#000000; margin-bottom:15px; margin-top:3px; }

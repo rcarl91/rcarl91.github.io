@@ -1,0 +1,72 @@
+<html>
+<head>
+   <title>Meny - EKAK</title>
+
+<script language="JavaScript">
+var a='Nytt på sidan: Resultat från Oktoberhäfvet      '
+var b='På gång: Galliska Spelen 8-10/11      '
+var c='Snabbast øhl: Pripps '
+var d='                    '
+var e=d+a+b+c
+
+function rulla(sofia){
+f=parseInt(sofia)
+if(f==e.length){f=0}
+f++
+med=e.substring(f,f+60)
+var igen='rulla('+f+')'
+timerTwo=window.setTimeout(igen,150);
+
+//Skriver ut texten i textrutan
+document.alfa.text.value=med
+
+//Skriver texten i status raden
+self.status=med;return true
+
+}
+//Notera att i <body> måste du infatta onLoad="rulla(0)"
+</script>
+
+
+</head>
+<body bgcolor="#FFFF40" onLoad="rulla(0)">
+<center>
+<form name="alfa">
+<center>
+<!-- Här har vi text rutan. Den heter helt enkelt "text" -->
+<input type="text" value="" name="text" size="40" color="ffff40">
+</center>
+</form>
+
+<br>
+ 
+<br><img src="images/ekaklogomindre.jpg"></center><br><br><br>
+
+<table BORDER=0 COLS=3 WIDTH="100%" NOSAVE >
+<tr NOSAVE>
+<td NOSAVE><img src="images/ankanmindre.jpg"><br><b><font size=+1><a href="kalle.shtml">Kalle Anka</a></font></b>
+<br><font size=+1>Ordf&ouml;rande</font>
+<br>Anders Jernstedt</td>
+
+<td NOSAVE><img src="images/overtsenmindre.jpg"><br><b><font size=+1><a href="oversten.shtml">&Ouml;versten</a></font></b>
+<br><font size=+1>Kass&ouml;r</font>
+<br>Mattias Falkehag</td>
+
+<td><img src="images/omalleymidre.jpg"><br><b><font size=+1><a href="omalley.shtml">Thomas O'Malley</a></font></b>
+<br><font size=+1>Korrespondenschef</font>
+<br>Fredrik &Ouml;hgren</td>
+</tr>
+
+<tr>
+<td><br><img src="images/brutusmindre.jpg"><br><b><font size=+1><a href="brutus.shtml">Brutus</a></font></b>
+<br><font size=+1>&Ouml;hlchef</font>
+<br>Marcus Hellqvist</td>
+
+<td><br><img src="images/tuckmindre.jpg"><br><b><font size=+1><a href="tuck.shtml">Broder Tuck</a></font></b>
+<br><font size=+1>Filmchef</font>
+<br>Johan Lundahl</td>
+</tr>
+</table>
+
+</body>
+</html>

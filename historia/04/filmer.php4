@@ -1,0 +1,80 @@
+<?php
+
+include ( 'include.inc' );
+
+
+pageHeader ( false );
+
+inlineTableHeader ( 400 , 0 );
+ ?>
+
+<font size="4">Filmer</font>
+<br /><br />
+<a href="film_bokst.php4">Alla filmer i bokstavsordning</a><br />
+<a href="film_ar.php4">Alla filmer i &aring;rtalsordning</a><br />
+<a href="film_nr.php4">Alla filmer i nummerordning (v&aring;r m&auml;rkning)</a>
+<br /><br />
+
+En kort resume av en del av de filmer som EKAK har!!<br /><br />
+
+<b>Sammanst&auml;lld av Rover Boy #6</b>
+
+<p>Den &auml;ldsta film vi har &auml;r Steamboat Willie, vilken &auml;ven
+&auml;r den f&ouml;rsta med Musse Pigg och tro det eller ej Svarte Petter
+fr&aring;n 1928. F&ouml;rsta g&aring;ngen Kalle medverkar var i The Wise
+Little Hen med releasedatum 9 juni 1934 som var en Silly Symphony-rulle.
+Tyv&auml;rr saknar EKAK denna eminenta rulle.
+<p>Dessb&auml;ttre har vi en remake fr&aring;n 1941 p&aring; Kalles andra
+film Orphan's Benefit, som kom tv&aring; m&aring;nader efter Kalles premi&auml;r
+p&aring; film. Dessutom &auml;r det f&ouml;rsta g&aring;ngen Kalle och
+L&aring;ngben &auml;r tillsammans. P&aring; 30- och 40-talet var det ju
+mycket vanligt att Musse, Kalle och L&aring;ngben gjorde filmer tillsammans,
+men i dagens Kalle Anka &amp; C:o syns de ju aldrig tillsammans. En annan
+tidig film med Kalle &auml;r The Band Concert (1935), som ocks&aring; var
+den f&ouml;rsta i f&auml;rg, d&auml;r Kalle retar gallfeber p&aring; dirigententen
+Musse med sin fl&ouml;jt.
+<p>Vi har som mest filmer fr&aring;n slutet av 30-talet och b&ouml;rjan
+av 40-talet (d&aring; Kalle hade en vit m&ouml;ssa!) n&aring;gra godbitar
+&auml;r On Ice (1935), Alpine Climbers (1936) och Moving Day (1936). Dessutom
+har vi Don Donald (1937) d&auml;r Kalle spelar huvudrollen f&ouml;r f&ouml;rsta
+g&aring;ngen och jag tror &auml;ven att det &auml;r f&ouml;rsta g&aring;ngen
+Kajsa &auml;r med p&aring; film.
+<p>Sev&auml;rd &auml;r ocks&aring; Autograph Hound (1939) d&auml;r Kalle
+spelar autografj&auml;gare med g&auml;stspel av Greta Garbo, Mickey Rooney,
+Shirley Temple, The Ritz Brothers och Armetta. N&aring;gra av 40-talets
+st&ouml;rsta Hollywoodstj&auml;rnor.
+<p>En mycket kontroversiell och uppm&auml;rksammad film kom den 1 januari
+1943 och som EKAK kan vara mycket stolta &ouml;ver att ha i sin samling:
+Der F&uuml;hrer's Face. En antinazististfilm som handlar om hur Kalle
+ikl&auml;dd naziuniform dr&ouml;mmer att han lever i Hitlertyskland och
+lider av detta totaliserade samh&auml;lle, men som tur &auml;r vaknar han
+upp p&aring; slutet. Denna film fick en Oscar 1943 (Kalles enda!). Tyv&auml;rr
+&auml;r denna film f&ouml;r v&auml;rdefull f&ouml;r att kunna visas.
+<p>EKAK innehar &auml;ven n&aring;gra filmer som har blivit censurerade
+av den svenska staten. Clown of the Jungle (1947), ni vet den filmen som
+visas p&aring; julafton, d&auml;r Kalle &auml;r ute p&aring; en fotoexpedition
+och f&aring;r problem med en f&aring;gel. &Auml;r det n&aring;gon som har
+sett Kalle skjuta kulspruta p&aring; julafton?. Mickey's Trailer (1938)
+Musse, Kalle och L&aring;ngben p&aring; husvagnssemester, d&auml;r L&aring;ngben
+r&aring;kar sticka fingrarna i v&auml;gguttaget och poppa popcorn. &Auml;r
+det n&aring;gon som har sett det?. I Soup's On (1948) finns det vissa versioner
+d&auml;r det &auml;r bortklippt n&auml;r Kalle blir dj&auml;vul p&aring;
+slutet.
+<p>Sj&auml;lvfallet har &auml;ven EKAK klipp ur n&aring;gra av Disney's
+m&aring;nga l&aring;ngfilmer bl.a. fr&aring;n den allra f&ouml;rsta Sn&ouml;vit
+(1937). Vi har &auml;ven Djungelboken, Robin Hood, Peter Pan och 101 Dalmatinerna
+och n&aring;gra till.
+<p>Sammanlagt uppg&aring;r v&aring;r samling till ca 155 olika Disneyrullar
+p&aring; Super 8, men &auml;n &auml;r den l&aring;ngt ifr&aring;n komplet.
+Med tanke p&aring; att mellan &aring;ren 1928 och 1962 gjordes det 121
+Mussefilmer, 77 Silly Symphony, 124 Kalle, 48 Pluto och 46 L&aring;ngbenfilmer,
+s&aring; &auml;r alla nytillskott v&auml;lkomna.
+<p />
+<b>Quack!</b>
+
+<?php
+ 
+inlineTableFooter ( );
+
+pageFooter ( );
+ ?>
