@@ -46,6 +46,7 @@ body a:hover{
 .top-middle img{
 	position: absolute;
 	display: block;
+	top: -1%;
 }
 
 .top-middle a {
