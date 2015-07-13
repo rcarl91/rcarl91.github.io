@@ -1179,7 +1179,7 @@ p.m_5 {
 	background: #FFF;
 }
 .b-wrapper:hover {
-	background: #00704b;
+	background: rgba(0, 112, 75, 0.63);
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-o-transition: 0.5s all;
