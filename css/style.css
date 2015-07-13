@@ -43,8 +43,14 @@ body a:hover{
 	top: -12%;
     left: 11%;
 }
+.top-middle img{
+	position: absolute;
+	display: block;
+	top:-25%;
+}
+
 .top-middle a {
-  padding: 1em 2.5em 2.5em;
+  padding: 3em 2.5em 2.5em;
   display: block;
   /*background: url(../images/crelab_logo.png)no-repeat 0px 0px;
   background-size: initial;
