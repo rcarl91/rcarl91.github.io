@@ -356,7 +356,7 @@
 		float: left;
 	}
 
-	#content section table tr{
+	section > table > tr{
 		margin-right: auto;
 		margin-left: auto;
 	}
