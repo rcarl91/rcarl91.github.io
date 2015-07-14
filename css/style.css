@@ -297,7 +297,7 @@
 	#header
 	{
 		background-position: top center;
-		background: #ddd url(header.jpg) no-repeat center;
+		background: #ddd url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
