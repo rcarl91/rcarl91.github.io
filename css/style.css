@@ -300,6 +300,9 @@
 		background: #ddd url(../images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
+	#header .container{
+		margin-top: 5em;
+	}
 
 	#logo
 	{
