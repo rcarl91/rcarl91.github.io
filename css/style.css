@@ -296,8 +296,8 @@
 
 	#header
 	{
-		position: relative;
-		background: #ddd url(images/header.jpg) no-repeat center;
+		background-position: top center;
+		background: #ddd url(css/images/header.jpg) no-repeat center;
 		background-size: cover;
 	}
 
