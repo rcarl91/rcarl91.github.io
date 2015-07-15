@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /Users/carl_rosengren/Documents/Webdesign/PassWordProtect/.htpasswd  
+require valid-user
