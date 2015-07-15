@@ -3,6 +3,11 @@
 /*Credits: Dynamic Drive CSS Library */ 
 /*URL: http://www.dynamicdrive.com/style/ */ 
 
+#main{
+	position: relative;
+	background: #fff url(images/overlay.png) repeat;
+}
+
 .hovergallery img{ 
 -webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/ 
 -moz-transform:scale(0.8); /*Mozilla scale version*/ 
