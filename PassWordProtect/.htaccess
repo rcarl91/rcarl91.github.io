@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile login.html/.htpasswd  
+AuthUserFile login.html.htpasswd  
 require valid-user
