@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /Users/carl_rosengren/Documents/Webdesign/rcarl91.github.io/PassWordProtect/.htpasswd  
+AuthUserFile /rcarl91.github.io/PassWordProtect/.htpasswd  
 require valid-user
