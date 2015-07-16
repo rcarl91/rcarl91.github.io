@@ -535,7 +535,7 @@ ul#filters {
 #filters li span {
 	display: block;
 	border-radius: 4px;
-	border: 2px solid #00704b;
+	border: 2px solid #ba0200;
 	padding: 6px 12px;
 	text-decoration: none;
 	color:#2e2b34;
@@ -546,7 +546,7 @@ ul#filters {
 	margin: 0 10px 0 0;
 }
 #filters li span.active,#filters li span:hover {
-	background: #00704b;
+	background: #ba0200;
 	color: #ffffff;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -563,7 +563,6 @@ ul#filters {
 	margin-right: auto;
 	width: 31%;
 	margin: 0 11px 22px 11px;
-	float: left;
 	display:none;
 	overflow:hidden;
 }
