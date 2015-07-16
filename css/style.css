@@ -558,11 +558,12 @@ ul#filters {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-o-box-sizing: border-box;
-	position: absolute;
+	position: relative;
 	margin-left: auto;
 	margin-right: auto;
 	width: 31%;
 	margin: 0 11px 22px 11px;
+	float: left;
 	display:none;
 	overflow:hidden;
 }
