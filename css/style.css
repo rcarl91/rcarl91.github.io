@@ -547,7 +547,7 @@ ul#filters {
 }
 #filters li span.active,#filters li span:hover {
 	background: #ba0200;
-	color: #ffffff;
+	color: #ffe313;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
