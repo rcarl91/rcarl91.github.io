@@ -564,9 +564,11 @@ ul#filters {
 .portfolio-wrapper {
 	overflow:hidden;
 	position: relative !important;
+	cursor:pointer;
+}
+.portfolio-wrapper img{
 	margin-right: auto !important;
 	margin-left: auto !important;
-	cursor:pointer;
 }
 .portfolio img {
 	max-width:100%;
