@@ -1,5 +1,3 @@
-// external js: isotope.pkgd.js
-
 $( document ).ready( function() {
   // init Isotope
   var $container = $('.isotope').isotope({
@@ -55,4 +53,3 @@ $( document ).ready( function() {
   });
   
 });
-
