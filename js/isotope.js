@@ -51,5 +51,11 @@ $( document ).ready( function() {
       $( this ).addClass('is-checked');
     });
   });
+
+  $(document).ready(function(){    
+   $("img").click(function(){    
+        $("img").animate({height: "300px"});
+    });
+  });
   
 });
