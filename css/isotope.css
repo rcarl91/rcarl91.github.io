@@ -79,9 +79,10 @@ body {
 
 .element-item {
   position: relative;
+  display: inline;
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 235px;
+  height: 235px;
   margin: 5px;
   padding: 10px;
   background: #888;
