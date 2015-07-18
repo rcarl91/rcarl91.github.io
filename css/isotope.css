@@ -137,3 +137,13 @@ body {
 .element-item.halogen         { background: #F0F; background: hsl( 288, 100%, 50%); }
 .element-item.noble-gas       { background: #F08; background: hsl( 324, 100%, 50%); }
 
+.popup{    
+    width: 300px;
+    height: 300px;
+    background: green;
+    color: #FFFFFF;
+    display: none;
+    position: absolute;
+    left: -30px;
+     outline:0;
+}
