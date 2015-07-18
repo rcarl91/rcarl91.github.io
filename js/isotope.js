@@ -52,7 +52,7 @@ $( document ).ready( function() {
     });
   });
 
-$(".element-item").click(function(e){
+$(".link").click(function(e){
   e.preventDefault();
   $(".popup").fadeIn(300,function(){$(this).focus();});
 });
