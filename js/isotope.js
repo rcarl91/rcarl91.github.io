@@ -29,8 +29,15 @@ $( document ).ready( function() {
     }
   };
 
-  // bind filter button click
-  $('#filters').on( 'click', 'button', function() {
+  // bind filter buttons click
+  $('#filters1').on( 'click', 'button', function() {
+    var filterValue = $( this ).attr('data-filter');
+    // use filterFn if matches value
+    filterValue = filterFns[ filterValue ] || filterValue;
+    $container.isotope({ filter: filterValue });
+  });
+
+   $('#filters2').on( 'click', 'button', function() {
     var filterValue = $( this ).attr('data-filter');
     // use filterFn if matches value
     filterValue = filterFns[ filterValue ] || filterValue;
