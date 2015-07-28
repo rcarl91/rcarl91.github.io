@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /Users/carl_rosengren/Documents/Webdesign/rcarl91.github.io/PassWordProtect/.htpasswd
+Require valid-user
